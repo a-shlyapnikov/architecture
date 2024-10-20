@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606d5679-043d-49dc-a616-818e9b9d8420" name="Changes" comment="washing added">
+    <list default="true" id="606d5679-043d-49dc-a616-818e9b9d8420" name="Changes" comment="tickets added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728014801704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tickets added">
+      <created>1729080876554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729080876554</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +139,7 @@
     <MESSAGE value="modelling3D added" />
     <MESSAGE value="builder added" />
     <MESSAGE value="washing added" />
-    <option name="LAST_COMMIT_MESSAGE" value="washing added" />
+    <MESSAGE value="tickets added" />
+    <option name="LAST_COMMIT_MESSAGE" value="tickets added" />
   </component>
 </project>
