@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="606d5679-043d-49dc-a616-818e9b9d8420" name="Changes" comment="tickets added">
+    <list default="true" id="606d5679-043d-49dc-a616-818e9b9d8420" name="Changes" comment="3DEditor added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +50,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.solid.Main">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.Main" />
       <module name="architecture" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cleanArchitecture.notes.Program" />
+      <module name="architecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cleanArchitecture.notes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.solid.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -121,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729080876554</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3DEditor added">
+      <created>1729418643617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729418643617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +161,7 @@
     <MESSAGE value="builder added" />
     <MESSAGE value="washing added" />
     <MESSAGE value="tickets added" />
-    <option name="LAST_COMMIT_MESSAGE" value="tickets added" />
+    <MESSAGE value="3DEditor added" />
+    <option name="LAST_COMMIT_MESSAGE" value="3DEditor added" />
   </component>
 </project>
